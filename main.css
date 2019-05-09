@@ -1,12 +1,56 @@
-body {
-background-color: #cd84f1;
-height: 800px;
+
+ section {
+   height: 800px;
+ }
+
+.lol {
+  background-color: #4a69bd;
+}
+
+.idk {
+  display: grid;
+  grid-template: auto/ 50% 50%;
+  background-color: #12CBC4;
 
 }
 
-
+.yer {
+  background-color: #EA2027;
+}
+.smh{
+  background-color: #F8EFBA;
 }
 
-.image-grid
-.image-grid {}
-.image-grid {}
+ div {
+  background-image-color: #f8c291;
+  image-orientation: center;
+  font-size: 16;
+  font-style: right;
+  image-orientation: left;
+}
+  div {
+  transition: : width 2s;
+  background-color:
+}
+
+ div {
+   font-color; white;
+
+ }
+  @keyframes fade-in {
+      from {opacity: 0}
+
+    opacity: 0;
+
+    to {
+ opacity: 1;
+
+  }
+
+ .show {
+  animation: transition;
+  animation-duration: 600ms;
+  }
+  .hidden {
+  opacity: 0;
+}
